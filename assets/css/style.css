@@ -135,3 +135,25 @@ hr {
     height: 1px;
 
 }
+
+.img-car {
+    position: relative;
+    left: 0%;
+   
+
+}
+
+.img3 {
+    position: relative;
+    top: 170px;
+    right: 440px;
+
+}
+
+.img4 {
+    position: relative;
+    top: 170px;
+    right: 440px;
+
+}
+
